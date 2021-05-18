@@ -89,3 +89,6 @@ Created and currated by the [Sharpestminds](https://www.sharpestminds.com) commu
 - [A comprehensive set of instructions on how to prep for technical interviews in ML.](https://github.com/ShuaiW/data-science-question-answer) Highly recommended.
 - [A list of Google AI interview questions.](https://medium.com/acing-ai/google-ai-interview-questions-acing-the-ai-interview-1791ad7dc3ae)
 - [If you're willing to buy a book, here's a great one that has a massive list of top notch interview questions.](https://www.amazon.com/Heard-Data-Science-Interviews-Interview/dp/1727287320)
+
+### Contributors
+- Thanks to [Deepshika](https://www.linkedin.com/in/deepshika-sharma-a8a8bb101/) for supplying an initial set of questions!
